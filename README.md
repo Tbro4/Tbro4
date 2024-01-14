@@ -40,3 +40,6 @@ I am a Full Stack Developer from Indiana.
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
 </div>
 
+### Current Project :
+I am currently working on a Texas Hold 'em poker app focused on letting groups of friends play a "home game" style game together online. [Check out the backend code here.](https://github.com/Degen-IO/pokerbackend)
+
