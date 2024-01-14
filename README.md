@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="300"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/tyler-brooks-dev">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,9 +9,6 @@
   </a>
  </div>
  <img src="https://komarev.com/ghpvc/?username=Tbro4&style=flat-square&color=blue" alt=""/>
-<!--   <h1>
-  <img src="https://media.giphy.com/media/l3cnCvxq934Cg6T2HZ/giphy.gif" width="200"/>
-  </h1> -->
 </div>
 
 ---
@@ -24,7 +21,7 @@ I am a Full Stack Developer from Indiana.
 
 - :zap: In my free time, I work on personal code projects and play music!
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-TBrooks-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tyler-brooks-dev)
+- :mailbox: How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thetylerbrooks@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyler-brooks-dev) 
 
 ---
 
@@ -39,5 +36,7 @@ I am a Full Stack Developer from Indiana.
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/podman/podman-original.svg" title="Podman" alt="Podman" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
 </div>
 
