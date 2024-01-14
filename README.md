@@ -14,14 +14,14 @@
 ---
 
 ### About Me :
-I am a Full Stack Developer from Indiana.
+I am a Full Stack Developer from Indiana, living in Denver, CO.
 - :telescope: I'm working towards a career in software engineering.
 
 - :seedling: Exploring new technologies every day to become a better programmer.
 
 - :zap: In my free time, I work on personal code projects and play music!
 
-- :mailbox: How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thetylerbrooks@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyler-brooks-dev) 
+- :mailbox: Let's work together to build something great! [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thetylerbrooks@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyler-brooks-dev) 
 
 ---
 
